@@ -32,6 +32,7 @@ Users should be able to:
 - Semantic HTML5 markup
 - Tailwind CSS
 - Flexbox
+- Grid
 - Mobile-first workflow
 
 ## Author
